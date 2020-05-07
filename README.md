@@ -1,3 +1,4 @@
-# hello-world
-just another repository
-#本课程设计爬虫.py说明文档
+# 面向携程旅游信息的网络爬虫
+本部分介绍爬虫需预安装库和运行步骤
+#依赖
+tkinter
