@@ -8,9 +8,11 @@
 ## 运行步骤
 step1：<br>
 创建picture文件夹存放爬取图片和词云图片，注意.py文件中保存路径应和创建路径保持一致<br>
+![](img-folder/路径.png)
 step2：<br>
 下载simhei.ttf字体，安装到C:\Windows\Fonts，用于词云的汉化（系统可能默认自带）<br>
 step3：<br>
 运行爬虫.py文件，选择对应国家城市确定，成功爬取结果如图所示<br>
+![](img-folder/结果.png)
 step4：<br>
 如需选择其他景点，重复step3操作<br>
