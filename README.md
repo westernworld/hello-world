@@ -8,7 +8,7 @@
 ## 运行步骤
 step1：<br>
 创建picture文件夹存放爬取图片和词云图片，注意.py文件中保存路径应和创建路径保持一致<br>
-![不存在](https://github.com/westernworld/hello-world/raw/master/img-folder/路径.png)
+![不存在](https://github.com/westernworld/hello-world/raw/master/img-folder/路径.png)<br>
 step2：<br>
 下载simhei.ttf字体，安装到C:\Windows\Fonts，用于词云的汉化（系统可能默认自带）<br>
 step3：<br>
