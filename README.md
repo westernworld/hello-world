@@ -13,6 +13,6 @@ step2：<br>
 下载simhei.ttf字体，安装到C:\Windows\Fonts，用于词云的汉化（系统可能默认自带）<br>
 step3：<br>
 运行爬虫.py文件，选择对应国家城市确定，成功爬取结果如图所示<br>
-![不存在](https://github.com/westernworld/hello-world/blob/master/img-folder/result.png)
+![不存在](https://github.com/westernworld/hello-world/blob/master/img-folder/result.png)<br>
 step4：<br>
 如需选择其他景点，重复step3操作<br>
