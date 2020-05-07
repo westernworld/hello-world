@@ -6,11 +6,11 @@
 * wordcloud,jieba # 生成词云
 * PIL # 图像显示
 ## 运行步骤
-step1：
-创建picture文件夹存放爬取图片和词云图片，注意.py文件中保存路径应和创建路径保持一致
-step2：
-下载simhei.ttf字体，安装到C:\Windows\Fonts，用于词云的汉化（系统可能默认自带）
-step3：
-运行爬虫.py文件，选择对应国家城市确定，成功爬取结果如图所示
-step4：
-如需选择其他景点，重复step3操作
+step1：<br>
+创建picture文件夹存放爬取图片和词云图片，注意.py文件中保存路径应和创建路径保持一致<br>
+step2：<br>
+下载simhei.ttf字体，安装到C:\Windows\Fonts，用于词云的汉化（系统可能默认自带）<br>
+step3：<br>
+运行爬虫.py文件，选择对应国家城市确定，成功爬取结果如图所示<br>
+step4：<br>
+如需选择其他景点，重复step3操作<br>
